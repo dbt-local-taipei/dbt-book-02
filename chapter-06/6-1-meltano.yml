@@ -1,0 +1,31 @@
+version: 1
+default_environment: dev
+project_id: c612a465-4663-4e6b-adf0-72d571865232
+environments:
+- name: dev
+- name: staging
+- name: prod
+plugins:
+  extractors:
+  - name: tap-postgres
+    variant: meltanolabs
+    pip_url: git+https://github.com/MeltanoLabs/tap-postgres.git
+    config:
+      host: localhost
+      port: 5432
+      user: laurencechen
+      password: password
+      database: jaffle_shop
+      default_replication_method: FULL_TABLE
+    select:
+    - dbt_alice-customers.*
+  loaders:
+  - name: target-postgres
+    variant: meltanolabs
+    pip_url: meltanolabs-target-postgres~=0.0.7
+    config:
+      host: localhost
+      port: 5432
+      user: laurencechen
+      password: password
+      database: laurencechen
