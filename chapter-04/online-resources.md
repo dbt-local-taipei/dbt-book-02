@@ -21,7 +21,7 @@ https://duckdb.org/docs/stable/guides/meta/list_tables.html
 DuckDB 官方文件，List Tables 是一個 DuckDB 常用的的後設查詢（Meta Queries）。
 
 ## 透過 DBeaver 來操作 DuckDB
-https://duckdb.org/docs/stable/guides/sql_editors/dbeaver.html
+https://duckdb.org/docs/stable/guides/sql_editors/dbeaver.html  
 DuckDB 官方文件，說明如何安裝 DBeaver 並連接至 DuckDB。
 
 ## DuckDB 轉接器
