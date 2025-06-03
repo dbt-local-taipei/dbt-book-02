@@ -12,14 +12,9 @@ https://www.metabase.com/start/oss/jar
 https://sdkman.io/  
 SDKMAN! 是一個 Java 管理器，可以安裝及切換不同版本的 Java 環境。
 
-## 認知學心理學研究 Spatial versus object visualizers: A new characterization of visual cognitive style
-https://nmr.mgh.harvard.edu/mkozhevnlab/wp-content/uploads/pdfs/spatial_versus2005.pdf  
-作者 Kozhevnikov, M., Kosslyn, S., & Shephard, J. (2005)
-
 ## Metabase 圖表範例
 https://www.metabase.com/learn/metabase-basics/querying-and-dashboards/visualization/chart-guide  
 官方文件除列出各個圖表的範例之外，也詳盡說明各種圖表的使用建議。
-
 
 ## 管理學研究：成效管理 Managing for Results
 https://www.books.com.tw/products/0010154637  

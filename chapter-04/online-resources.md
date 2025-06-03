@@ -25,12 +25,11 @@ https://duckdb.org/docs/stable/guides/sql_editors/dbeaver.html
 DuckDB 官方文件，說明如何安裝 DBeaver 並連接至 DuckDB。
 
 ## DuckDB 轉接器
-https://github.com/AlexR2D2/metabase_duckdb_driver/releases  
+https://github.com/motherduckdb/metabase_duckdb_driver  
 
 ## SQL Formatter 工具：SQL Formatter for Java by Maven Central
 https://www.vertical-blank.com/sql-formatter/  
 讀者可自行以 SQL Formatter 關鍵字，搜尋其他選擇。
-
 
 ## SQL Validator 工具：Free SQL syntax checker by Aiven
 https://www.eversql.com/sql-syntax-check-validator/  

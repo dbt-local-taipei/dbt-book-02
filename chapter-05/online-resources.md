@@ -4,7 +4,6 @@
 https://docs.getdbt.com/best-practices/how-we-structure/1-guide-overview  
 dbt 官方提供的最佳實踐指南，除了說明建議作法之外，更深入探討背後內含的思想。
 
-
 ## SQL 學習網站：1keydata
 https://www.1keydata.com/tw/sql/sql.html  
 一個 SQL 學習網站，內容涵蓋 SQL-92。雖然 UI 看起來舊了一些，但是內容的編排歷久彌新。
