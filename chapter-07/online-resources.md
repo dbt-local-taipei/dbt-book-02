@@ -1,6 +1,5 @@
 # 線上資源
 
-
 ## 《從錯誤到創新》
 https://leanpub.com/errors_to_innovation/  
 我的另一本著作

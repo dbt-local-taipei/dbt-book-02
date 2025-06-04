@@ -12,7 +12,6 @@
 https://github.com/meltano/cron-ext  
 Meltano 官方提供的 cron 工作排程工具。
 
-
 ## GitHub Personal access tokens (classic)
 https://github.com/settings/tokens  
 若要讓外部資源能連接至 GitHub Repo，皆須透 access token。
