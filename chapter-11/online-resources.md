@@ -7,3 +7,8 @@ https://hbr.org/2017/07/being-the-boss-in-brussels-boston-and-beijing
 ## The Art of UNIX Programming
 https://www.tenlong.com.tw/products/9787121176654  
 作者 Eric S. Raymond
+
+
+## 形式語言學參考文章
+https://edge.aif.tw/droidtown-linguistics-for-the-age-of-ai/  
+文章 -- AI 時代的語言學：結構，作者王文傑。
