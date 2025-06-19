@@ -22,9 +22,9 @@ for _ in range(num_simulations):
 
 # 繪製模擬結果分佈
 plt.hist(simulated_cases, bins=50, color='skyblue', edgecolor='black')
-plt.xlabel('接案數量')
-plt.ylabel('模擬次數')
-plt.title('蒙地卡羅模擬接案數量分佈')
+plt.xlabel('Number of Cases')
+plt.ylabel('Simulation Count')
+plt.title('Monte Carlo Simulation Distribution of Cases')
 plt.show()
 
 # 顯示模擬結果的統計資訊
